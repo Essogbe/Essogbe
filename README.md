@@ -12,13 +12,10 @@ Je suis un **IA et Data Enthousiaste** et un **Développeur Backend Junior** pas
 
 ## Mes Compétences :
 - **Langages** : Python, JavaScript, SQL
-- **Frameworks** : Django, Flask
+- **Frameworks** : Django, Flask, Pytorch 
 - **Data Science** : Pandas, NumPy, Scikit-Learn
-- **DevOps** : Docker, Kubernetes (en cours d'apprentissage)
+- **DevOps** : Docker,Cloud, Ansible,  Kubernetes (en cours d'apprentissage)
 
-## Projets en Cours :
-- **Déploiement de Modèles IA** : Mise en place de pipelines de déploiement automatique pour les modèles machine learning
-- **Applications Backend** : Développement d'API robustes et sécurisées
 
 
 
